@@ -6,9 +6,9 @@ This is the web-based client for dylans cpps, solving the problem of Flash endin
 - Automatic client updates to add new fuctionality
 
 # User Installation
-Alternatively visit the releases page - https://github.com/Dylan15404/AS2dylansclient/releases
+Alternatively visit the releases page - https://github.com/Dylan15404/dylansclient/releases
 # Development Installation
-`git clone https://github.com/Dylan15404/AS2dylansclient`
+`git clone https://github.com/Dylan15404/dylansclient`
 
 `npm install`
 
