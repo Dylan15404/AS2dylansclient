@@ -2,7 +2,7 @@ directories:
   output: dist
   buildResources: build
 appId: com.cozypenguin.desktop
-productName: Cozy Penguin Desktop
+productName: dylansclient
 asar: false
 win:
   publish: github
