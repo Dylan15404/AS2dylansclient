@@ -9,7 +9,7 @@ This is heavily inspired by Penguin World's client. We reccommend creating a sep
 # User Installation
 Alternatively visit the releases page - https://github.com/Dylan15404/AS2dylansclient/releases
 # Development Installation
-`git clone # Developmehttps://github.com/Dylan15404/AS2dylansclient`
+`git clone https://github.com/Dylan15404/AS2dylansclient`
 
 `npm install`
 
