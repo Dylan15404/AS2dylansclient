@@ -1,7 +1,7 @@
 {
-  "name": "cozydesktop",
+  "name": "dylansclient",
   "version": "1.0.0",
-  "description": "Desktop client for cozypenguin.net",
+  "description": "Desktop client for dylans cpps",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -12,9 +12,9 @@
   "bugs": {
     "url": "https://github.com/cozy-penguin/client/issues"
   },
-  "homepage": "https://github.com/cozy-penguin/client#readme",
-  "repository": "https://github.com/cozy-penguin/client",
-  "author": "AltoDev",
+  "homepage": "https://github.com/Dylan15404/AS2dylansclient#readme",
+  "repository": "https://github.com/Dylan15404/AS2dylansclient",
+  "author": "AltoDev, Dylan15404",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^6.1.2",
@@ -22,13 +22,12 @@
     "electron-is-dev": "^1.1.0"
   },
   "dependencies": {
-    "discord-rpc": "^3.1.0",
     "electron-is-dev": "^1.1.0",
     "electron-updater": "^4.2.0"
   },
   "build": {
     "appId": "com.cozypenguin.desktop",
-    "productName": "Cozy Penguin Desktop",
+    "productName": "dylansclient",
     "asar": "false",
     "win": {
       "publish": "github"
