@@ -12,8 +12,8 @@
   "bugs": {
     "url": "https://github.com/cozy-penguin/client/issues"
   },
-  "homepage": "https://github.com/Dylan15404/AS2dylansclient#readme",
-  "repository": "https://github.com/Dylan15404/AS2dylansclient",
+  "homepage": "https://github.com/Dylan15404/dylansclient#readme",
+  "repository": "https://github.com/Dylan15404/dylansclient",
   "author": "AltoDev, Dylan15404",
   "license": "CC0-1.0",
   "devDependencies": {
