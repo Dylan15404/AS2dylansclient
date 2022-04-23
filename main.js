@@ -1,7 +1,6 @@
 const {app, BrowserWindow, dialog} = require('electron');
 const isDev = require('electron-is-dev');
 const { autoUpdater } = require("electron-updater");
-const DiscordRPC = require('discord-rpc');
 
 //const {app, BrowserWindow} = require('electron');
 const path = require('path');
@@ -31,8 +30,8 @@ function clearCache() {
 
 function createWindow () {
   mainWindow = new BrowserWindow({
-    width: 1280,
-    height: 720,
+    width: 1920,
+    height: 1080,
     title: "Connecting...",
     icon: __dirname + '/favicon.ico',
     webPreferences: {
@@ -43,22 +42,7 @@ function createWindow () {
 
   mainWindow.setMenu(null);
   clearCache();
-  mainWindow.loadURL('https://play.cozypenguin.net/desktop');
-
-  // RICH PRESENCE START
-  const clientId = '648318276463755310'; DiscordRPC.register(clientId); const rpc = new DiscordRPC.Client({ transport: 'ipc' }); const startTimestamp = new Date();
-  rpc.on('ready', () => {
-    rpc.setActivity({
-      details: `cozypenguin.net`, 
-      state: `Desktop Client`, 
-      startTimestamp, 
-      largeImageKey: `main-logo`//, 
-      //largeImageText: "LARGE IMAGE TEXT", 
-      //smallImageKey: "favicon_512", 
-      //smallImageText: "SMALL IMAGE TEXT"
-    });
-  });
-  rpc.login({ clientId }).catch(console.error);
+  mainWindow.loadURL('http://play1.shedup.co.uk');
 
   //mainWindow.webContents.openDevTools();
 
