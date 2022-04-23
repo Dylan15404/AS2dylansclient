@@ -5,7 +5,6 @@ This is the web-based client for dylans cpps, solving the problem of Flash endin
 - Embedded (Pepper) Flash Player. There's no need to install Flash manually.
 - Automatic client updates to add new fuctionality
 
-This is heavily inspired by Penguin World's client. We reccommend creating a separate play page, ~~eg (https://play.cozypenguin.net/desktop)~~ so that Flash is fullscreen.
 # User Installation
 Alternatively visit the releases page - https://github.com/Dylan15404/AS2dylansclient/releases
 # Development Installation
