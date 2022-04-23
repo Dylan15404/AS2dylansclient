@@ -1,4 +1,4 @@
-# AS2 dylansclient
+# dylansclient
 All atributions to Altodev
 This is the web-based client for dylans cpps, solving the problem of Flash ending support in 2020, resulting in obtaining and using Flash harder. This client has many functions, including:
 - Automatically clearing the users' cache when the application is launched (parties and features update instantly!)
