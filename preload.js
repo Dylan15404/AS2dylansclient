@@ -12,7 +12,7 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 */
 
-function redirect(){window.location.href = 'http://play1.shedup.co.uk';}
+function redirect(){window.location.href = 'https://play1.shedup.co.uk';}
 window.addEventListener('DOMContentLoaded', () => {
   var url = window.location.href;
     if(url.includes('play1.shedup.co.uk') == false){redirect();}

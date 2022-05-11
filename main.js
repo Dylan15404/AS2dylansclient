@@ -42,7 +42,7 @@ function createWindow () {
 
   mainWindow.setMenu(null);
   clearCache();
-  mainWindow.loadURL('http://play1.shedup.co.uk');
+  mainWindow.loadURL('https://play1.shedup.co.uk');
   mainWindow.maximize();
   //mainWindow.webContents.openDevTools();
 
