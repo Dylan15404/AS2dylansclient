@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.2.0
 files:
-  - url: dylansclient-1.0.0.exe
-    sha512: iul5xBa1BtUMt8kdXpYoH1dQFO4Ya4r9jdfB2hZqGFeRqTnI3E9XXfESDmBfQ40WxL8Sfu1B+UdlAW/EB3D8ew==
-    size: 76161249
-path: dylansclient-1.0.0.exe
-sha512: iul5xBa1BtUMt8kdXpYoH1dQFO4Ya4r9jdfB2hZqGFeRqTnI3E9XXfESDmBfQ40WxL8Sfu1B+UdlAW/EB3D8ew==
-releaseDate: '2020-02-25T21:58:37.323Z'
+  - url: dylansclient-Setup-1.2.0.exe
+    sha512: TdBkNEwjz0Nf1TrNASHmwGKSoD0AnQ3ueCaqd3PSMTpCK5GnT5YS9d2DPmCeXmyX/eZZjRK8rTno9k2QyVeuWA==
+    size: 76416931
+path: dylansclient-Setup-1.2.0.exe
+sha512: TdBkNEwjz0Nf1TrNASHmwGKSoD0AnQ3ueCaqd3PSMTpCK5GnT5YS9d2DPmCeXmyX/eZZjRK8rTno9k2QyVeuWA==
+releaseDate: '2022-05-11T18:49:12.496Z'

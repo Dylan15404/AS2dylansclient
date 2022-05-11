@@ -43,16 +43,16 @@ function createWindow () {
   mainWindow.setMenu(null);
   clearCache();
   mainWindow.loadURL('http://play1.shedup.co.uk');
-
+  mainWindow.maximize();
   //mainWindow.webContents.openDevTools();
 
   mainWindow.on('closed', function () {
     mainWindow = null
+
   });
 }
 
 app.on('ready', createWindow);
-
 app.on('window-all-closed', function () {
   // On macOS it is common for applications and their menu bar
   // to stay active until the user quits explicitly with Cmd + Q

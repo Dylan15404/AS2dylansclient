@@ -6,4 +6,5 @@ productName: dylansclient
 asar: false
 win:
   publish: github
-electronVersion: 6.1.7
+files: []
+electronVersion: 6.1.12

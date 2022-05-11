@@ -1,6 +1,6 @@
 {
   "name": "dylansclient",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Desktop client for dylans cpps",
   "main": "main.js",
   "scripts": {
