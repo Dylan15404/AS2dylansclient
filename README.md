@@ -12,18 +12,10 @@ This is the web-based client for dylans cpps, solving the problem of Flash endin
 
 if you experience any crashes click the reload button and report the bug.
 
+# User Installation
+Visit the releases page - https://github.com/Dylan15404/dylansclient/releases
 
-
-
-
-
-
-
-
-
-# User Installation for repackaging
-Alternatively visit the releases page - https://github.com/Dylan15404/dylansclient/releases
-# Development Installation
+# Development Installation for repackaging
 `git clone https://github.com/Dylan15404/dylansclient`
 
 `npm install`
