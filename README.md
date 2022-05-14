@@ -4,7 +4,7 @@ This is the web-based client for dylans cpps, solving the problem of Flash endin
 - Embedded (Pepper) Flash Player. There's no need to install Flash manually.
 - Connects to dylansclient cpps server 
 
-# known bugs on cpps
+# Known bugs on cpps
 - Mix music minigame does not work
 - Email verification is disabled, so click reload after sign up
 - Barrel box dimesional teleporters don't work
@@ -12,10 +12,10 @@ This is the web-based client for dylans cpps, solving the problem of Flash endin
 
 if you experience any crashes click the reload button and report the bug.
 
-# User Installation
+# User installation
 Visit the releases page - https://github.com/Dylan15404/dylansclient/releases
 
-# Development Installation for repackaging
+# Development installation for repackaging
 `git clone https://github.com/Dylan15404/dylansclient`
 
 `npm install`
