@@ -30,7 +30,7 @@ Windows: `npm run-script build`
 
 macOS: `npm run-script build-mac`
 
-All atributions to Altodev
 Then open the folder `dist` and run either the .exe for Windows or .pkg for macOS
 # License
 Please attribute AltoDev and leave all attribution in it's original state.
+All original atributions to Altodev
